@@ -1,7 +1,7 @@
 ## Introduction
 
-Welcome,developers! DSPool's docs will provides much more data services in Web3,and we'll focusing on: IPFS、Decentralized Storage、Computing powers,etc.  
-Hopeful enjoying it.
+Welcome, developers! DSPool's docs will provide much more data services in Web3, and we'll focus on IPFS、Decentralized Storage、Computing powers, etc.  
+Hopeful and enjoying it.
 
 ## Support or Contact
 
