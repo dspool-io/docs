@@ -9,4 +9,4 @@ Having trouble with Pages? Check out our [email](dev@dspool.io) and we’ll help
 
 ### License
 
-https://img.shields.io/github/license/dspool-io/docs
+[!](https://img.shields.io/github/license/dspool-io/docs) Most of code is Apache-2.0
