@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to DSPool docs
 
 You can use the [editor on GitHub](https://github.com/dspool-io/docs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
